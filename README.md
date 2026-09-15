@@ -33,5 +33,13 @@ before you give all the commands
 ## git config -- global user.email "xyz@gmail.com"(setup and one time) 
 before giving all the commands 
 
+## git pull origin main 
+to get the complete pull from the existing repo 
+
+## gitignore 
+which ever file we have that we  do not want to send it to the git those files are send to git ignore so that they are not added to the repo
+for example if the the model is large  it should be send to git ignore because it is very very huge to upload the other files also 
+
+
 
 
