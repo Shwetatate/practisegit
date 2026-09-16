@@ -1,4 +1,4 @@
-## Pracising the  Git commands 
+### Pracising the  Git commands 
 
 ## git init  - 
 initialize the an existing directory as a git respository 
